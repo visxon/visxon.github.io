@@ -1,1 +1,6 @@
 theme: jekyll-theme-hacker
+title: Vishal Kumar Vachheta
+description: OSCP
+name: Vishal
+plugins:
+  - jemoji
